@@ -10,15 +10,15 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   background: #ffffff;
   height: 10vh;
   position: fixed;
@@ -36,22 +36,22 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   margin: 0px 0px 0px 65px;
 }
 
 .nav .left-nav ul li {
   list-style: none;
   margin: 0px 25px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 1vw;
   font-weight: bold;
 }
@@ -62,7 +62,7 @@
 }
 
 .nav .middle-nav h1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
   letter-spacing: 0.3vw;
 }
 
@@ -75,22 +75,22 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   margin: 0px 60px 0px -65px;
 }
 
 .nav .right-nav ul li {
   list-style: none;
   margin: 0px 25px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 1vw;
   font-weight: bold;
 }
@@ -105,19 +105,19 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   background: beige;
 }
 
-.section-1 .sub1-section1 { 
+.section-1 .sub1-section1 {
   background-size: cover;
   min-height: 90%;
   width: 80%;
@@ -132,23 +132,23 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 .section-1 .sub2-section1 h3 {
   font-size: 1.5vw;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .section-1 .sub2-section1 h2 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-align: center;
 }
 
@@ -166,11 +166,11 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   margin-top: 30px;
   padding: 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   font-weight: bolder;
@@ -191,21 +191,21 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   height: 40vh;
 }
 
 .section-2 q {
   font-size: 2vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-2 i {
@@ -220,10 +220,10 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   padding: 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   font-weight: bolder;
@@ -241,7 +241,7 @@
 
 .section-3 {
   background: #f5f1ed;
-  height: 225vh;
+  padding-bottom: 100px;
 }
 
 .section-3 .sub1-section3 {
@@ -249,20 +249,20 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   padding: 0px 10px 0px 0px;
 }
 
 .section-3 .sub1-section3 h2 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-align: center;
 }
 
@@ -274,10 +274,10 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   padding: 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   font-weight: bolder;
@@ -302,7 +302,7 @@
   display: grid;
   gap: 80px 100px;
   -ms-grid-columns: auto auto;
-      grid-template-columns: auto auto;
+  grid-template-columns: auto auto;
   padding: 0px 100px 0px 100px;
 }
 
@@ -321,34 +321,54 @@
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .name-and-price h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box1
+  .contain-two-rows-of-text
+  .name-and-price
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .name-and-price h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box1
+  .contain-two-rows-of-text
+  .name-and-price
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .location-and-availability h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box1
+  .contain-two-rows-of-text
+  .location-and-availability
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .location-and-availability h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box1
+  .contain-two-rows-of-text
+  .location-and-availability
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-3 .sub2-section3 .sub2-section3-box2 .image2 {
@@ -366,34 +386,54 @@
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .name-and-price h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box2
+  .contain-two-rows-of-text
+  .name-and-price
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .name-and-price h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box2
+  .contain-two-rows-of-text
+  .name-and-price
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .location-and-availability h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box2
+  .contain-two-rows-of-text
+  .location-and-availability
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .location-and-availability h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box2
+  .contain-two-rows-of-text
+  .location-and-availability
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-3 .sub2-section3 .sub2-section3-box3 .image3 {
@@ -411,34 +451,54 @@
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .name-and-price h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box3
+  .contain-two-rows-of-text
+  .name-and-price
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .name-and-price h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box3
+  .contain-two-rows-of-text
+  .name-and-price
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .location-and-availability h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box3
+  .contain-two-rows-of-text
+  .location-and-availability
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .location-and-availability h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box3
+  .contain-two-rows-of-text
+  .location-and-availability
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-3 .sub2-section3 .sub2-section3-box4 .image4 {
@@ -456,34 +516,54 @@
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .name-and-price h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box4
+  .contain-two-rows-of-text
+  .name-and-price
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .name-and-price h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box4
+  .contain-two-rows-of-text
+  .name-and-price
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .location-and-availability h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box4
+  .contain-two-rows-of-text
+  .location-and-availability
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .location-and-availability h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box4
+  .contain-two-rows-of-text
+  .location-and-availability
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-3 .sub2-section3 .sub2-section3-box5 .image5 {
@@ -501,34 +581,54 @@
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .name-and-price h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box5
+  .contain-two-rows-of-text
+  .name-and-price
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .name-and-price h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box5
+  .contain-two-rows-of-text
+  .name-and-price
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .location-and-availability h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box5
+  .contain-two-rows-of-text
+  .location-and-availability
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .location-and-availability h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box5
+  .contain-two-rows-of-text
+  .location-and-availability
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-3 .sub2-section3 .sub2-section3-box6 .image6 {
@@ -546,34 +646,54 @@
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .name-and-price h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box6
+  .contain-two-rows-of-text
+  .name-and-price
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .name-and-price h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box6
+  .contain-two-rows-of-text
+  .name-and-price
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .location-and-availability h3 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box6
+  .contain-two-rows-of-text
+  .location-and-availability
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .location-and-availability h2 {
+.section-3
+  .sub2-section3
+  .sub2-section3-box6
+  .contain-two-rows-of-text
+  .location-and-availability
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-4 {
@@ -583,21 +703,21 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 .section-4 q {
   color: white;
   font-size: 3vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-4 p {
@@ -617,10 +737,10 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   padding: 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   color: white;
@@ -643,28 +763,28 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
 }
 
 .section-6 q {
   color: #101010;
   font-size: 2vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-6 p {
   color: #101010;
   font-size: 2vw;
   padding: 0px 50px 0px 150px;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
   opacity: 95%;
 }
 
@@ -704,15 +824,15 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   height: 75vh;
   background: #000000;
   opacity: 80%;
@@ -720,7 +840,7 @@
 
 .section-7 .section7-text-container h2 {
   font-size: 2.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-align: center;
   color: white;
   padding: 80px;
@@ -734,10 +854,10 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   padding: 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   font-weight: bolder;
@@ -765,20 +885,20 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   padding: 0px 10px 0px 0px;
 }
 
 .section-8 .sub1-section8 h2 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-align: center;
 }
 
@@ -790,10 +910,10 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   padding: 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   font-weight: bolder;
@@ -818,7 +938,7 @@
   display: grid;
   gap: 80px 100px;
   -ms-grid-columns: auto auto;
-      grid-template-columns: auto auto;
+  grid-template-columns: auto auto;
   padding: 0px 100px 0px 100px;
 }
 
@@ -839,38 +959,58 @@
   align-items: center;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .name-and-price h3 {
+.section-8
+  .sub2-section8
+  .sub2-section8-box1
+  .contain-two-rows-of-text
+  .name-and-price
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   /* margin: 0 auto; */
   text-align: center;
   padding: 15px 0px 0px 0px;
 }
 
-.section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .name-and-price h2 {
+.section-8
+  .sub2-section8
+  .sub2-section8-box1
+  .contain-two-rows-of-text
+  .name-and-price
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
-.section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .location-and-availability h3 {
+.section-8
+  .sub2-section8
+  .sub2-section8-box1
+  .contain-two-rows-of-text
+  .location-and-availability
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   padding: 15px 0px 0px 0px;
 }
 
-.section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .location-and-availability h2 {
+.section-8
+  .sub2-section8
+  .sub2-section8-box1
+  .contain-two-rows-of-text
+  .location-and-availability
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-8 .sub2-section8 .sub3-section8-box2 .image1 {
@@ -888,52 +1028,71 @@
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .name-and-price h3 {
+.section-8
+  .sub2-section8
+  .sub3-section8-box2
+  .contain-two-rows-of-text
+  .name-and-price
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .name-and-price h2 {
+.section-8
+  .sub2-section8
+  .sub3-section8-box2
+  .contain-two-rows-of-text
+  .name-and-price
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
-.section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .location-and-availability h3 {
+.section-8
+  .sub2-section8
+  .sub3-section8-box2
+  .contain-two-rows-of-text
+  .location-and-availability
+  h3 {
   font-size: 1.5vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .location-and-availability h2 {
+.section-8
+  .sub2-section8
+  .sub3-section8-box2
+  .contain-two-rows-of-text
+  .location-and-availability
+  h2 {
   font-size: 1.5vw;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .section-9 {
   background: #101010;
-  height: 55vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: baseline;
-      -ms-flex-align: baseline;
-          align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
 }
 
 .section-9 .sub1-section9 {
@@ -941,15 +1100,15 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   padding: 50px 0px 0px 100px;
 }
 
@@ -958,20 +1117,20 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 .section-9 .sub1-section9 .section-sub1-section9-left-footer-1 h4 {
   font-size: 1.55vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 100;
   color: #f5f1ed;
   padding: 0px 25px 10px 0px;
@@ -979,7 +1138,7 @@
 
 .section-9 .sub1-section9 .section-sub1-section9-left-footer-1 h3 {
   font-size: 1.55vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 100;
   color: #f5f1ed;
   padding: 0px 25px 15px 0px;
@@ -990,20 +1149,20 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 .section-9 .sub1-section9 .section-sub1-section9-left-footer-2 h4 {
   font-size: 1.55vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 100;
   color: #f5f1ed;
   padding: 0px 25px 10px 0px;
@@ -1011,7 +1170,7 @@
 
 .section-9 .sub1-section9 .section-sub1-section9-left-footer-2 h3 {
   font-size: 1.55vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 100;
   color: #f5f1ed;
   padding: 0px 25px 15px 0px;
@@ -1022,20 +1181,20 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 .section-9 .sub1-section9 .section-sub1-section9-left-footer-3 h4 {
   font-size: 1.55vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 100;
   color: #f5f1ed;
   padding: 0px 25px 10px 0px;
@@ -1043,7 +1202,7 @@
 
 .section-9 .sub1-section9 .section-sub1-section9-left-footer-3 h3 {
   font-size: 1.55vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 100;
   color: #f5f1ed;
   padding: 0px 25px 15px 0px;
@@ -1054,20 +1213,20 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: inherit;
-      -ms-flex-align: inherit;
-          align-items: inherit;
+  -ms-flex-align: inherit;
+  align-items: inherit;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 .section-9 .sub2-section9 .section-sub2-section9-right-footer-1 h3 {
   font-size: 1.55vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 100;
   color: #f5f1ed;
   padding: 0px 25px 15px 0px;
@@ -1079,11 +1238,36 @@
   margin-left: 2%;
   padding: 10px;
   font-size: 1.13vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   outline: none;
 }
+.formfield {
+  text-align: center;
+}
+
+.formfield button {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-align: center;
+  position: relative;
+  border: 1px solid #484848;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  padding: 10.5px;
+  font-family: "Montserrat", sans-serif;
+  -webkit-transition: ease-in-out 300ms;
+  transition: ease-in-out 300ms;
+  background-color: #101010;
+  color: white;
+}
+
 .section-9 .sub2-section9 form textarea {
   width: 55%;
+  vertical-align: middle;
   /* margin-top: 10px;
   margin-left: 20%; */
   /* margin-bottom:15%;
@@ -1091,10 +1275,10 @@
   /* display: flex;
   flex-direction: row;
   align-items: center; */
-  margin-left: 90px;
+  /* margin-left: 90px; */
   padding: 10px;
   font-size: 1.13vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   outline: none;
 }
 
@@ -1107,10 +1291,10 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   padding: 10.5px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   color: white;
@@ -1127,10 +1311,10 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   padding: 10.5px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   color: white;
@@ -1148,15 +1332,15 @@
   width: -moz-fit-content;
   width: fit-content;
   -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   padding: 10.5px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: ease-in-out 300ms;
   transition: ease-in-out 300ms;
   color: white;
 }
-.section-9 .sub2-section9 form k:hover {
+.section-9 .sub2-section9 form button:hover {
   background: #ffffff;
   color: #101010;
   font-weight: bolder;
@@ -1180,17 +1364,20 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-flex: row;
-      -ms-flex: row;
-          flex: row;
+  -ms-flex: row;
+  flex: row;
 }
 
-.section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container input {
+.section-9
+  .sub2-section9
+  .sub2-section9-right-footer-1-checkbox-container
+  input {
   width: 5%;
   padding: 5px;
   outline: none;
@@ -1198,7 +1385,7 @@
 
 .section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container p {
   font-size: 1vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 100;
   color: #f5f1ed;
   padding: 10px 0px 0px 0px;
@@ -1215,12 +1402,12 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     background: #ffffff;
     height: 10vh;
     position: fixed;
@@ -1231,7 +1418,7 @@
     display: none;
   }
   .nav .middle-nav h1 {
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     font-size: 4.5vw;
     margin: 22px;
     letter-spacing: 3px;
@@ -1244,15 +1431,15 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     background: beige;
   }
   .section-1 .sub1-section1 {
@@ -1270,24 +1457,24 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     padding: 0px 0px 20px 0px;
   }
   .section-1 .sub2-section1 h3 {
     font-size: 5.5vw;
     padding: 9px;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
   .section-1 .sub2-section1 h2 {
     font-size: 5.5vw;
     padding: 9px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
   .section-1 .sub2-section1 h1 {
@@ -1304,11 +1491,11 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     margin-top: 30px;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -1329,19 +1516,19 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-2 q {
     font-size: 2.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-2 i {
     font-size: 4vw;
@@ -1354,10 +1541,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -1373,26 +1560,25 @@
   }
   .section-3 {
     background: #f5f1ed;
-    height: 490vh;
   }
   .section-3 .sub1-section3 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     padding: 0px 10px 0px 0px;
   }
   .section-3 .sub1-section3 h2 {
     font-size: 5.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
     padding: 0px 0px 10px 0px;
   }
@@ -1404,10 +1590,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -1426,7 +1612,7 @@
     display: grid;
     gap: 80px 100px;
     -ms-grid-columns: auto;
-        grid-template-columns: auto;
+    grid-template-columns: auto;
     padding: 15px 10px 0px 10px;
   }
   .section-3 .sub2-section3 .sub2-section3-box1 .image1 {
@@ -1443,33 +1629,53 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     padding: 10px;
   }
-  .section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box1
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box1
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box1
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box1
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box2 .image2 {
@@ -1486,33 +1692,53 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     padding: 10px;
   }
-  .section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box2
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box2
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box2
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box2
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box3 .image3 {
@@ -1529,33 +1755,53 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     padding: 10px;
   }
-  .section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box3
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box3
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box3
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box3
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box4 .image4 {
@@ -1572,33 +1818,53 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     padding: 10px;
   }
-  .section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box4
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box4
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box4
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box4
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box5 .image5 {
@@ -1615,33 +1881,53 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     padding: 10px;
   }
-  .section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box5
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box5
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box5
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box5
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box6 .image6 {
@@ -1658,33 +1944,53 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     padding: 10px;
   }
-  .section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box6
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box6
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box6
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
-  .section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box6
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
   .section-4 {
@@ -1694,19 +2000,19 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-4 q {
     font-size: 4vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-4 i {
     font-size: 4vw;
@@ -1719,10 +2025,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -1743,26 +2049,26 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
     -webkit-box-orient: vertical;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: column-reverse;
-            flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
   }
   .section-6 q {
     color: #101010;
     font-size: 3vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-6 p {
     color: #101010;
     font-size: 3vw;
     padding: 0px 50px 0px 50px;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     opacity: 95%;
   }
   .section-6 i {
@@ -1792,22 +2098,22 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     height: 75vh;
     background: #000000;
     opacity: 80%;
   }
   .section-7 .section7-text-container h2 {
     font-size: 5.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
     color: white;
     padding: 80px;
@@ -1820,10 +2126,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -1848,18 +2154,18 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-8 .sub1-section8 h2 {
     font-size: 4.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
     padding: 0px 0px 10px 0px;
   }
@@ -1871,10 +2177,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -1896,7 +2202,7 @@
     display: grid;
     gap: 80px 100px;
     -ms-grid-columns: auto;
-        grid-template-columns: auto;
+    grid-template-columns: auto;
     padding: 15px 10px 0px 10px;
   }
   .section-8 .sub2-section8 .sub2-section8-box1 .image1 {
@@ -1913,32 +2219,52 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .name-and-price h3 {
+  .section-8
+    .sub2-section8
+    .sub2-section8-box1
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 1px 0px 0px 0px;
   }
-  .section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .name-and-price h2 {
+  .section-8
+    .sub2-section8
+    .sub2-section8-box1
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-8
+    .sub2-section8
+    .sub2-section8-box1
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 1px 0px 0px 0px;
   }
-  .section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-8
+    .sub2-section8
+    .sub2-section8-box1
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 6.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
   .section-8 .sub2-section8 .sub3-section8-box2 .image1 {
@@ -1955,31 +2281,51 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .name-and-price h3 {
+  .section-8
+    .sub2-section8
+    .sub3-section8-box2
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 10px 0px 0px 0px;
   }
-  .section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .name-and-price h2 {
+  .section-8
+    .sub2-section8
+    .sub3-section8-box2
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 3.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-8
+    .sub2-section8
+    .sub3-section8-box2
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 3.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-8
+    .sub2-section8
+    .sub3-section8-box2
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 6.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     text-align: center;
   }
   .section-9 {
@@ -1989,56 +2335,56 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: unset;
-        -ms-flex-align: unset;
-            align-items: unset;
+    -ms-flex-align: unset;
+    align-items: unset;
     -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub1-section9 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-1 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-1 h4 {
     font-size: 3vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 10px 0px;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-1 h3 {
     font-size: 4.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 15px 0px;
@@ -2048,26 +2394,26 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-2 h4 {
     font-size: 3vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 10px 0px;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-2 h3 {
     font-size: 4.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 15px 0px;
@@ -2077,26 +2423,26 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-3 h4 {
     font-size: 3vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 10px 0px;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-3 h3 {
     font-size: 4.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 15px 0px;
@@ -2106,34 +2452,34 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub2-section9 .section-sub2-section9-right-footer-1 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: inherit;
-        -ms-flex-align: inherit;
-            align-items: inherit;
+    -ms-flex-align: inherit;
+    align-items: inherit;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub2-section9 .section-sub2-section9-right-footer-1 h3 {
     font-size: 3vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 15px 0px;
@@ -2143,20 +2489,20 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
   }
   .section-9 .sub2-section9 form input {
     width: 55%;
     font-size: 3.13vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #101010;
     outline: none;
   }
@@ -2168,10 +2514,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10.5px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     color: white;
@@ -2190,28 +2536,35 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-flex: row;
-        -ms-flex: row;
-            flex: row;
+    -ms-flex: row;
+    flex: row;
   }
-  .section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container input {
+  .section-9
+    .sub2-section9
+    .sub2-section9-right-footer-1-checkbox-container
+    input {
     width: 6%;
     padding: 5px;
     outline: none;
   }
   .section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container p {
     font-size: 3vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 10px 0% 0% 9%;
   }
-  .section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container p a {
+  .section-9
+    .sub2-section9
+    .sub2-section9-right-footer-1-checkbox-container
+    p
+    a {
     text-decoration: underline;
   }
 }
@@ -2223,12 +2576,12 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     background: #ffffff;
     height: 13vh;
     position: fixed;
@@ -2239,7 +2592,7 @@
     display: none;
   }
   .nav .middle-nav h1 {
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     font-size: 3.5vw;
     margin: 12px;
     letter-spacing: 3px;
@@ -2252,15 +2605,15 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     background: beige;
   }
   .section-1 .sub1-section1 {
@@ -2278,24 +2631,24 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     padding: 0px 0px 20px 0px;
   }
   .section-1 .sub2-section1 h3 {
     font-size: 3.5vw;
     padding: 9px;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
   .section-1 .sub2-section1 h2 {
     font-size: 3.5vw;
     padding: 9px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
   .section-1 .sub2-section1 h1 {
@@ -2312,11 +2665,11 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     margin-top: 30px;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -2335,20 +2688,20 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     height: 40vh;
   }
   .section-2 q {
     font-size: 2vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-2 i {
     font-size: 2vw;
@@ -2361,10 +2714,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -2380,26 +2733,25 @@
   }
   .section-3 {
     background: #f5f1ed;
-    height: 280vh;
   }
   .section-3 .sub1-section3 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     padding: 0px 10px 0px 0px;
   }
   .section-3 .sub1-section3 h2 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
   .section-3 .sub1-section3 a {
@@ -2410,10 +2762,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -2435,7 +2787,7 @@
     display: grid;
     gap: 80px 100px;
     -ms-grid-columns: auto auto;
-        grid-template-columns: auto auto;
+    grid-template-columns: auto auto;
     padding: 0px 100px 0px 100px;
   }
   .section-3 .sub2-section3 .sub2-section3-box1 .image1 {
@@ -2452,30 +2804,50 @@
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box1
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box1
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box1
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box1 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box1
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box2 .image2 {
     background-image: url(images/section3-image2.jpg);
@@ -2491,30 +2863,50 @@
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box2
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box2
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box2
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box2 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box2
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box3 .image3 {
     background-image: url(images/section3-image3.jpg);
@@ -2530,30 +2922,50 @@
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box3
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box3
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box3
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box3 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box3
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box4 .image4 {
     background-image: url(images/section3-image4.jpg);
@@ -2569,30 +2981,50 @@
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box4
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box4
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box4
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box4 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box4
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box5 .image5 {
     background-image: url(images/section3-image5.jpg);
@@ -2608,30 +3040,50 @@
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box5
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box5
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box5
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box5 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box5
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box6 .image6 {
     background-image: url(images/section3-image6.jpg);
@@ -2647,30 +3099,50 @@
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .name-and-price h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box6
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .name-and-price h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box6
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box6
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-3 .sub2-section3 .sub2-section3-box6 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-3
+    .sub2-section3
+    .sub2-section3-box6
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-4 {
     height: 70vh;
@@ -2679,20 +3151,20 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-4 q {
     color: white;
     font-size: 3vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-4 p {
     color: white;
@@ -2709,10 +3181,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     color: white;
@@ -2733,25 +3205,25 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-6 q {
     color: #101010;
     font-size: 2vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-6 p {
     color: #101010;
     font-size: 2vw;
     padding: 0px 50px 0px 150px;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
     opacity: 95%;
   }
   .section-6 i {
@@ -2785,22 +3257,22 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     height: 75vh;
     background: #000000;
     opacity: 80%;
   }
   .section-7 .section7-text-container h2 {
     font-size: 2.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
     color: white;
     padding: 80px;
@@ -2813,10 +3285,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -2841,19 +3313,19 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     padding: 0px 10px 0px 0px;
   }
   .section-8 .sub1-section8 h2 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
   }
   .section-8 .sub1-section8 a {
@@ -2864,10 +3336,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     font-weight: bolder;
@@ -2889,7 +3361,7 @@
     display: grid;
     gap: 80px 100px;
     -ms-grid-columns: auto auto;
-        grid-template-columns: auto auto;
+    grid-template-columns: auto auto;
     padding: 0px 100px 0px 100px;
   }
   .section-8 .sub2-section8 .sub2-section8-box1 .image1 {
@@ -2906,32 +3378,52 @@
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .name-and-price h3 {
+  .section-8
+    .sub2-section8
+    .sub2-section8-box1
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 15px 0px 0px 0px;
   }
-  .section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .name-and-price h2 {
+  .section-8
+    .sub2-section8
+    .sub2-section8-box1
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-8
+    .sub2-section8
+    .sub2-section8-box1
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 15px 0px 0px 0px;
   }
-  .section-8 .sub2-section8 .sub2-section8-box1 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-8
+    .sub2-section8
+    .sub2-section8-box1
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-8 .sub2-section8 .sub3-section8-box2 .image1 {
     background-image: url(images/section8-image2.jpg);
@@ -2947,31 +3439,51 @@
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
-  .section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .name-and-price h3 {
+  .section-8
+    .sub2-section8
+    .sub3-section8-box2
+    .contain-two-rows-of-text
+    .name-and-price
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
-  .section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .name-and-price h2 {
+  .section-8
+    .sub2-section8
+    .sub3-section8-box2
+    .contain-two-rows-of-text
+    .name-and-price
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
-  .section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .location-and-availability h3 {
+  .section-8
+    .sub2-section8
+    .sub3-section8-box2
+    .contain-two-rows-of-text
+    .location-and-availability
+    h3 {
     font-size: 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 15px 0px 0px 0px;
   }
-  .section-8 .sub2-section8 .sub3-section8-box2 .contain-two-rows-of-text .location-and-availability h2 {
+  .section-8
+    .sub2-section8
+    .sub3-section8-box2
+    .contain-two-rows-of-text
+    .location-and-availability
+    h2 {
     font-size: 1.5vw;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
   }
   .section-9 {
     background: #101010;
@@ -2980,30 +3492,30 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: baseline;
-        -ms-flex-align: baseline;
-            align-items: baseline;
+    -ms-flex-align: baseline;
+    align-items: baseline;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
   }
   .section-9 .sub1-section9 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: start;
+    -ms-flex-pack: start;
+    justify-content: start;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     padding: 50px 0px 0px 100px;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-1 {
@@ -3011,26 +3523,26 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-1 h4 {
     font-size: 1.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 10px 0px;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-1 h3 {
     font-size: 1.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 15px 0px;
@@ -3040,26 +3552,26 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-2 h4 {
     font-size: 1.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 10px 0px;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-2 h3 {
     font-size: 1.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 15px 0px;
@@ -3069,26 +3581,26 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-3 h4 {
     font-size: 1.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 10px 0px;
   }
   .section-9 .sub1-section9 .section-sub1-section9-left-footer-3 h3 {
     font-size: 1.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 15px 0px;
@@ -3098,19 +3610,19 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: inherit;
-        -ms-flex-align: inherit;
-            align-items: inherit;
+    -ms-flex-align: inherit;
+    align-items: inherit;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-9 .sub2-section9 .section-sub2-section9-right-footer-1 h3 {
     font-size: 1.55vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 0px 25px 15px 0px;
@@ -3119,7 +3631,7 @@
     width: 55%;
     padding: 10px;
     font-size: 1.13vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     outline: none;
   }
   .section-9 .sub2-section9 form a {
@@ -3130,10 +3642,10 @@
     width: -moz-fit-content;
     width: fit-content;
     -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
     padding: 10.5px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     -webkit-transition: ease-in-out 300ms;
     transition: ease-in-out 300ms;
     color: white;
@@ -3152,28 +3664,35 @@
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-flex: row;
-        -ms-flex: row;
-            flex: row;
+    -ms-flex: row;
+    flex: row;
   }
-  .section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container input {
+  .section-9
+    .sub2-section9
+    .sub2-section9-right-footer-1-checkbox-container
+    input {
     width: 5%;
     padding: 5px;
     outline: none;
   }
   .section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container p {
     font-size: 1vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     color: #f5f1ed;
     padding: 10px 0px 0px 0px;
   }
-  .section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container p a {
+  .section-9
+    .sub2-section9
+    .sub2-section9-right-footer-1-checkbox-container
+    p
+    a {
     text-decoration: underline;
   }
 }
